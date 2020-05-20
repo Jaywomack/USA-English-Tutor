@@ -194,6 +194,10 @@ img {
   margin-top: 20px;
 }
 
+.contact img {
+  height: 75vh;
+}
+
 /* Post */
 .post {
   padding: 50px 30px;

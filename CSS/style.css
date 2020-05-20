@@ -132,6 +132,11 @@ img {
   border: none;
 }
 
+.hero.lessons {
+  background: url("../images/city_hd.jpeg") no-repeat center center/cover;
+  height: 50vh;
+}
+
 /* Icons */
 .icons {
   padding: 30px;
@@ -210,6 +215,11 @@ img {
   border-radius: 50%;
   display: block;
   margin: 0 auto 30px;
+}
+
+/* Lessons */
+.lessons img {
+  height: 80vh;
 }
 
 /* Footer */
